@@ -1,0 +1,18 @@
+.card {
+    margin-bottom: 40px;
+}
+
+.page-header {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: bold;
+}
+
+.img-card-top {
+    height: 300px;
+    width: 320px;
+}
+
+.card-title {
+    font-size: 25px;
+}
